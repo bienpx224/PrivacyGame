@@ -6,7 +6,7 @@ var app = express();
 var fs = require('fs');
 	 
 
-app.set('port', (process.env.PORT || 80));
+app.set('port', (process.env.PORT || 8000));
 app.use(express.static(__dirname + '/views'));
 app.set('views', __dirname + '/views');
 app.engine('html', require('ejs').renderFile);
