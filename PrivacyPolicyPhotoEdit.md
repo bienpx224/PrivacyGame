@@ -92,7 +92,7 @@ We will take reasonable measures to prevent the loss, improper use of, unauthori
 
 **Contact Us**
 
-If you have questions about the privacy aspects of our Services or would like to make a complaint, please contact at **[feedback.software.bk@gmail.com]** . Please be sure to include your name, address and email address in any correspondence to us so that we can respond to your inquiry in a timely manner.
+If you have questions about the privacy aspects of our Services or would like to make a complaint, please contact at **[bienpx.chplay@gmail.com]** . Please be sure to include your name, address and email address in any correspondence to us so that we can respond to your inquiry in a timely manner.
 
 **Third Part Policy check list**** ：**
 
