@@ -58,6 +58,8 @@ When you use our Sites or our Services online, we will collect information about
 
 Metadata refers to technical data associated with user content. Put simply, metadata is data that describes data. For example, it can describe the analysis results of the facial features, gender, age and race of the figure in an image and other elements contained in the image and then generate and mark the analysis results through computer algorithms and artificial intelligence. When you use our Services, we will use photo metadata to provide you with certain features including precise &quot;Facial Recognition&quot;, &quot;Key-Points Recognition&quot;, &quot;Region Segmentation&quot;, &quot;Content Tags&quot; and other custom features based on a combination of these basic features. When our app processes your photos, we may provide you with a more suitable filter and better photo effects based on the metadata of your photos, and we may also provide you with products or services that are more appropriate at the time based on metadata. Metadata cannot usually be used to identify a specific individual; it will be used to improve our Services.
 
+**List Permission Requied**: WRITE_EXTENAL_STORAGE, READ_EXTENAL_STORAGE, INTERNET, BILLING, CAMERA, READ_PHONE_STATE.
+
 **How We Use Information**
 
 We collect user information and personal details so that  **we can provide our products and our Services to you and ensure our compliance with relevant laws. We will use your user information and personal details collected under &quot;The Information We Collect&quot; for the following purposes:**
